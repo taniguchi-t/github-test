@@ -1,0 +1,6 @@
+[submodule "dietcake"]
+	path = dietcake
+	url = ssh://git@github.com/taniguchi-t/dietcake.git
+[submodule "subdir/subsubdir/php-simple-dbi"]
+	path = subdir/subsubdir/php-simple-dbi
+	url = ssh://git@github.com/taniguchi-t/php-simple-dbi.git
